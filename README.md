@@ -7,3 +7,12 @@
 ## Sesi 2 (03-05-2024)
 - Learn about Variable (const, let, var)
 - Learn about Datatypes (string, number, object, array, boolean)
+
+## Sesi 3 (13-05-2024)
+- Learn About Operator
+  * Aritmatika (+, -, /, %, *, **)
+  * Penugasan 
+  * Perbandingan (=, !=, ===, ==, !==, >, >=, <, <=)
+  * Logika (&&, ||, !)
+  * Tenary (ifelse)
+  * Typeof (check type data)
