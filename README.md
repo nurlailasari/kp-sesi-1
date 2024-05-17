@@ -16,3 +16,18 @@
   * Logika (&&, ||, !)
   * Tenary (ifelse)
   * Typeof (check type data)
+
+## Sesi 4 (17-05-2024)
+- Learn About Condition
+  * If 
+  * Else If
+  * Switch Case
+- Learn About Looping
+  * For
+  * While
+  * ForEach
+  * Map
+  * Filter
+- Task For Next Session
+  * Create an array 1-10; Looping for filter bilangan ganjil dan genap
+  
