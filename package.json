@@ -1,0 +1,15 @@
+{
+  "name": "sesi_1",
+  "version": "1.0.0",
+  "description": "- Introduction \r - Setup nodejs, git and visual studio code\r - Create a simple project nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
