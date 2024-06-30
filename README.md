@@ -31,11 +31,11 @@
 - Task For Next Session
   * Create an array 1-10; Looping for filter bilangan ganjil dan genap
   
-  ## Sesi 5 (31-05-2024)
-  - Learn about function
-    * Function
-    * Callback
-    * External function
-    * Async Function (async+await or then)
-  - Task For Next Session
-    * Search npm package; implement npm package
+## Sesi 5 (31-05-2024)
+- Learn about function
+  * Function
+  * Callback
+  * External function
+  * Async Function (async+await or then)
+- Task For Next Session
+  * Search npm package; implement npm package
